@@ -1,0 +1,10 @@
+header {
+  border: 2px solid goldenrod;
+  display: flex;
+  justify-content: center;
+}
+
+.articles {
+  display: flex;
+  flex-direction: row;
+}
